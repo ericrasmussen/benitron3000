@@ -12,7 +12,7 @@ log = { version = "0.4.14", features = ["serde"] }
 nalgebra = "0.23"
 ncollide2d = "0.26"
 serde = { version = "1.0.125", features = ["derive"] }
-rand = "0.8.3"
+rand = "0.8.4"
 
 [dev-dependencies]
 amethyst_test = "0.15.3"
