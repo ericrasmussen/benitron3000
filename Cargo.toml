@@ -9,7 +9,7 @@ amethyst = "0.15.3"
 amethyst_rendy = { version = "0.15.3", features = ["no-slow-safety-checks"] }
 derive-new = "0.5.9"
 log = { version = "0.4.14", features = ["serde"] }
-nalgebra = "0.23"
+nalgebra = "0.28"
 ncollide2d = "0.26"
 serde = { version = "1.0.125", features = ["derive"] }
 rand = "0.8.3"
